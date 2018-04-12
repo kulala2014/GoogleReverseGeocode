@@ -1,0 +1,10 @@
+D:\Learning\GoogleReverseGeocode\GoogleReverseGeocode\Tester\bin\Debug\Tester.exe
+D:\Learning\GoogleReverseGeocode\GoogleReverseGeocode\Tester\bin\Debug\Tester.pdb
+D:\Learning\GoogleReverseGeocode\GoogleReverseGeocode\Tester\bin\Debug\GoogleReverseGeocode.dll
+D:\Learning\GoogleReverseGeocode\GoogleReverseGeocode\Tester\bin\Debug\GoogleReverseGeocode.pdb
+D:\Learning\GoogleReverseGeocode\GoogleReverseGeocode\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+D:\Learning\GoogleReverseGeocode\GoogleReverseGeocode\Tester\obj\Debug\Tester.Form1.resources
+D:\Learning\GoogleReverseGeocode\GoogleReverseGeocode\Tester\obj\Debug\Tester.Properties.Resources.resources
+D:\Learning\GoogleReverseGeocode\GoogleReverseGeocode\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
+D:\Learning\GoogleReverseGeocode\GoogleReverseGeocode\Tester\obj\Debug\Tester.exe
+D:\Learning\GoogleReverseGeocode\GoogleReverseGeocode\Tester\obj\Debug\Tester.pdb

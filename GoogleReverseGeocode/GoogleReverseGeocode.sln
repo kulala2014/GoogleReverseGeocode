@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleReverseGeocode", "GoogleReverseGeocode\GoogleReverseGeocode.csproj", "{2FFE6519-208F-4C76-8A84-5C21A172C4DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{A02BE1DA-7BE5-4F25-851D-0C88B66EFB3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FFE6519-208F-4C76-8A84-5C21A172C4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFE6519-208F-4C76-8A84-5C21A172C4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFE6519-208F-4C76-8A84-5C21A172C4DE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2FFE6519-208F-4C76-8A84-5C21A172C4DE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2FFE6519-208F-4C76-8A84-5C21A172C4DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2FFE6519-208F-4C76-8A84-5C21A172C4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFE6519-208F-4C76-8A84-5C21A172C4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FFE6519-208F-4C76-8A84-5C21A172C4DE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2FFE6519-208F-4C76-8A84-5C21A172C4DE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2FFE6519-208F-4C76-8A84-5C21A172C4DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{A02BE1DA-7BE5-4F25-851D-0C88B66EFB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02BE1DA-7BE5-4F25-851D-0C88B66EFB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02BE1DA-7BE5-4F25-851D-0C88B66EFB3A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A02BE1DA-7BE5-4F25-851D-0C88B66EFB3A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A02BE1DA-7BE5-4F25-851D-0C88B66EFB3A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A02BE1DA-7BE5-4F25-851D-0C88B66EFB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02BE1DA-7BE5-4F25-851D-0C88B66EFB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02BE1DA-7BE5-4F25-851D-0C88B66EFB3A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A02BE1DA-7BE5-4F25-851D-0C88B66EFB3A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A02BE1DA-7BE5-4F25-851D-0C88B66EFB3A}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
